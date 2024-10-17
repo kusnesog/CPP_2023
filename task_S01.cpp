@@ -11,10 +11,10 @@ int main() {
     char d = 'D';       
     
     // Операторы
-    float theamount = a + b;          // Сложение    
-    double subtraction = c - a;       // Вычитание  
-    float multiplication = a * b;     // Умножение
-    double division = c / b;          // Деление 
+    float theamount = a + b;           
+    double subtraction = c - a;        
+    float multiplication = a * b;     
+    double division = c / b;           
 
     std::cout << "Сумма (a + b): " << theamount << std::endl;
     std::cout << "Разность (c - a): " << subtraction << std::endl;
